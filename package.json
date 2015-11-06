@@ -1,0 +1,19 @@
+{
+  "name": "Express3",
+  "version": "0.0.0",
+  "description": "Express3",
+  "main": "app.js",
+  "author": {
+    "name": "v-guiliu",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "1.9.x",
+    "documentdb": "^1.4.0",
+    "express": "^3.21.2",
+    "jade": "*",
+    "minimist": "*",
+    "stylus": "*",
+    "swagger-node-express": "~2.0"
+  }
+}
